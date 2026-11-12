@@ -480,7 +480,7 @@ Use SerpApi APIs without writing code:
 
 - Track where your app ranks for keywords in App Store search.
 - Monitor the ratings, prices, versions, and release notes of competing apps.
-- Build app discovery and comparison features with icons, screenshots, and genres.
+- Compare the apps that rank for a keyword by price, rating, and genre.
 - Research a category with `category_id`, or a developer's apps with `property=developer`.
 - Compare App Store results across countries and languages.
 - Give AI agents and RAG pipelines an app search tool.
